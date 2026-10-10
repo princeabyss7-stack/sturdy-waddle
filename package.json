@@ -1,0 +1,9 @@
+{
+  "name": "nextidea",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "engines": { "node": ">=20" },
+  "dependencies": { "express": "^4.19.2" }
+}
